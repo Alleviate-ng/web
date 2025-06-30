@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #009BFF;
+  color: white;
+  padding: 30px 20px;
+}
+
+.logo {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.tagline {
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+
+main {
+  padding: 40px 20px;
+}
+
+.mission, .contact {
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: #f0f2f5;
+  padding: 15px;
+  font-size: 0.9em;
+  color: #555;
+}
